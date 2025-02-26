@@ -1,6 +1,7 @@
 import face_recognition
 import os
 import pickle
+import face_recognition_models
 
 encodings = []
 names = []
